@@ -1,0 +1,24 @@
+1) How to check if the processor is little endian or big endian
+2) Explain volatile variable
+3) Explain const variable
+4) Application of const and volatile
+5) SPI and I2C multi master and multi slave protocol
+6) How free() function works at memory level
+7) STRUCTURE PADDING(Samsung)
+8) Logic analyzer vs oscilloscope vs spectrum analyzer
+9) Diff between static and global variable
+10) C compilation steps
+11) Measure i/p frequency  --> Use extenal interrupt
+12) TCP vs UDP with example
+13) C memory map
+14) #define vs const
+15) stack vs heap
+16) Set/clear/toggle a specific bit
+17) Reverse a string without using 2nd string
+18) Function pointers
+19) Segmentation fault reasons
+20) Why use callback on top of ISR
+21) Fragmentation in heap memory
+22) Mutex and semaphore concepts
+23) Dangling pointer
+24) Stack/Queue/Linked list 
